@@ -1,0 +1,33 @@
+{
+    "name": "javascript-helpers",
+    "version": "1.0.0",
+    "description": "A collection of versatile JavaScript/Node.js helpers that can be easily integrated into any project without the need for attribution. These helpers are designed to enhance your development workflow and streamline common tasks. Feel free to adjust it further if you have specific aspects you'd like to highlight!",
+    "license": "The Unlicense",
+    "author": "SoftwareSpot Apps",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {},
+    "devDependencies": {
+        "@eslint/js": "^9.39.2",
+        "eslint": "^9.39.2",
+        "eslint-config-prettier": "^10.1.8",
+        "eslint-plugin-import": "^2.32.0",
+        "eslint-plugin-n": "^17.23.2",
+        "eslint-plugin-prettier": "^5.5.5",
+        "eslint-plugin-promise": "^7.2.1",
+        "eslint-plugin-security": "^3.0.1",
+        "eslint-plugin-simple-import-sort": "^12.1.1",
+        "eslint-plugin-sonarjs": "^3.0.5",
+        "eslint-plugin-sort-destructure-keys": "^2.0.0",
+        "eslint-plugin-sort-keys-fix": "^1.1.2",
+        "eslint-plugin-unicorn": "^62.0.0",
+        "globals": "^17.0.0",
+        "prettier": "^3.8.0"
+    },
+    "engines": {
+        "node": ">=24"
+    },
+    "dependencies": {
+        "react": "^19.2.3"
+    }
+}
